@@ -1,0 +1,41 @@
+.navbar{
+    background-color:greenyellow;
+    margin: 0px;
+    padding: 10px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar .dipen .nami {
+    font-weight: bolder;
+    font-family: sans-serif;
+    list-style: none;
+    display: flex;
+}
+ .nami > li > a{
+    -webkit-text-fill-color: black;
+    text-decoration: none;
+    margin: 30px;
+    padding: 15px;
+    font-size: 30px;
+    display: inline;
+    transition: 0.3s all;
+    text-transform: lowercase;
+}
+.dipen .nami li a:hover{
+    background-color: white ;
+    margin: 5px;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
